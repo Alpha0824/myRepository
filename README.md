@@ -1,1 +1,1 @@
-# myRepository
+# spring-cloud-config-repo
